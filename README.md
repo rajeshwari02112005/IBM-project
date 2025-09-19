@@ -23,6 +23,11 @@ Policy Updates – Personalized alerts on schemes and services.
 Public Participation – Smart polls & feedback for better decisions.
 
 Documentation:
+https://drive.google.com/file/d/1sb_wBid6eHjRsKh075MswN9Fmh1dW_pA/view?usp=drivesdk
+
+Demo Link:
+
+
 
 
 
