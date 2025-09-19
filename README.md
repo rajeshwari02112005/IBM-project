@@ -9,3 +9,13 @@ project description:
 1. City Analysis – Insights about crime, accidents, and overall safety for a given city.
 2. Citizen Services Assistance – Answers citizen queries about public services, government policies, and civic issues.
 
+Tech Stack:
+- Python
+- Hugging Face Transformers
+- Google Colab (for deployment and ease of use)
+
+Deployment:
+This project is designed to run seamlessly in Google Colab, ensuring quick setup and minimal configuration. Users can clone the repository and launch the assistant directly from the notebook interface.
+
+use case:
+   
