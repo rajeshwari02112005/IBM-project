@@ -18,4 +18,16 @@ Deployment:
 This project is designed to run seamlessly in Google Colab, ensuring quick setup and minimal configuration. Users can clone the repository and launch the assistant directly from the notebook interface.
 
 use case:
-   
+Grievance Redressal – AI routes citizen complaints and tracks resolution.
+Policy Updates – Personalized alerts on schemes and services.
+Public Participation – Smart polls & feedback for better decisions.
+
+Documentation:
+
+
+
+
+
+
+
+
